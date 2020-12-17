@@ -1,0 +1,4 @@
+OBJECT_BASE 2024002.btg
+OBJECT LFVM.btg
+OBJECT_SHARED Models/Airport/windsock.xml -56.375431 47.095712 4.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -56.385028 47.096761 3.7 0.00
